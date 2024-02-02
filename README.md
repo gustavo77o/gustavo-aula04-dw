@@ -15,9 +15,11 @@
  - Importante lembrar de ir em *file* -> **AutoSave**, para que salve automaticamente e já esteja no seu GitHub Desktop sem precisar fazer manualmente a cada atualização que precisar.
  ## Passo 5 (*Criação dentro do VSCode*): ##
  - Usar uma linguagem, a utilizada nesse exemplo é a Markdown, a cada alteração é modificado já no desktop.
- ## Passo 6 (*Commit to main*)
+ ## Passo 6 (*Commit to main*):
  - Após a alteração que você deseja vamos ir ao desktop e podemos visualizar tudo que foi adicionado em "*Changes*"
  - No lado inferior esquerdo podemos nomear a modificação, ela já apresenta um exemplo como "*Update README.md*" embaixo apresenta uma descrição detalhada.
  - Depois de colocar as informações necessárias podemos clicar em "*Commit to main*" 
- ## Passo 7 (*Push origin*)
- - Após o podemos clicar em "*Push origin*" e vai estar atualizado já no GitHub do navegador com todas as informações necessárias
+ ## Passo 7 (*Push origin*):
+ - Após o podemos clicar em "*Push origin*" e vai estar atualizado já no GitHub do navegador com todas as informações necessárias.
+ ## Passo 8 (*Pull*):
+ - O comando git pull é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais. Fazer o merge de alterações upstream remotas no repositório local é algo comum em fluxos de trabalho de colaboração baseados em Git. 
