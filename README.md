@@ -19,4 +19,5 @@
  - Após a alteração que você deseja vamos ir ao desktop e podemos visualizar tudo que foi adicionado em "*Changes*"
  - No lado inferior esquerdo podemos nomear a modificação, ela já apresenta um exemplo como "*Update README.md*" embaixo apresenta uma descrição detalhada.
  - Depois de colocar as informações necessárias podemos clicar em "*Commit to main*" 
- ## Passo 7 (*Fet*)
+ ## Passo 7 (*Push origin*)
+ - Após o podemos clicar em "*Push origin*" e vai estar atualizado já no GitHub do navegador com todas as informações necessárias
