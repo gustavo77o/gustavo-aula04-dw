@@ -7,8 +7,8 @@
 
 ## Passo 2 (*GitHub Desktop*): ##
  - Acessar o site "https://desktop.github.com/" e instalar.
-![Githubdesktop](https://github.com/gustavo77o/gustavo-aula04-dw/blob/main/githubdesktop.png?raw=true)
- - Entar com sua conta que já foi criada.0
+ ![Github Desktop](https://github.com/gustavo77o/gustavo-aula04-dw/blob/main/githubdesktop.png?raw=true)
+ - Entar com sua conta que já foi criada.
 
 ## Passo 3 (*Interligar*) : ##
  - Voltando ao navegador aonde está aberto o site do github com nosso novo repositório, visualize o botão escrito "Set up in Desktop" 
@@ -25,13 +25,19 @@
  ## Passo 7 (*Push origin*):
  - Após o podemos clicar em "*Push origin*" e vai estar atualizado já no GitHub do navegador com todas as informações necessárias.
  ## Passo 8 (*Pull*):
- - O comando git pull é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais. Fazer o merge de alterações upstream remotas no repositório local é algo comum em fluxos de trabalho de colaboração baseados em Git. 
- ## Passo 9 (*New Branch*):
- - Ir no github desktop, clicar em "*branch*" e podemos nomear com qualquer nome a sua escolha.
- - Acessando o Visual Studio CODE, criar um "*new file*" para poder testar o novo brench.
-## Passo 10 (*Main*):
-- Colocando branch em main novamente podemos criar um "*new file*" para testar. 
-- Podemos ter "teste.txt" e "teste2.txt" os dois são toltamentes diferentes e não pode ser acessado quando trocado de branch.
-## Passo 11 (*Merge*):
-- Voltando no github desktop, clicar em "*branch*" ir na opção "*Merge*" e selecionamos o **branch** que foi **criado**, depois disso podemos clicar no botão escrito "*create a merge commit*".
-- 
+ - O comando git pull é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais. Fazer o merge de alterações upstream remotas no repositório local é algo comum em fluxos de trabalho de colaboração baseados em Git.
+ ## Passo 9 (*new_branch*): 
+ - Abrir o nosso github desktop, e clicar em "*Branch*" e nomear da sua escolha.
+ ## Passo 10 (*new file*):
+ - Acessando o VScode vamos clicar em "*New file*" e nomear como "*Teste.txt*"
+ - Escrever algo dentro e podemos voltar no github desktop.
+ ## Passo 11 (*Main*):
+ - Colocando no branch em main novamente podemos repetir o **Passo 10** e nomear como "*Teste.txt2*"
+ - Sendo assim os dois são diferentes e não podem ser acessados quando trocado de branch.
+ ## Passo 12 (*Merge*):
+ - Voltando no github desktop, clicando em branch e ir na opção merge e selecionamos o branch que foi criado, depois disso podemos clicar no botão "*create a merge commit*".
+ - E selecionamos o branch que foi criado ele vai mesclar.
+ - Depois disso vamos dar push, e logo vai ser atualizado no seu github. 
+ ## Passo 13 (*excluir*):
+ - Para poder excluir vamos ir em "*Branch*" ir em "*delete*" e confirmar para deletar e já vai ser excluído.
+ - Depois de excluir vamos em push e não vai aparecer mais.
