@@ -8,7 +8,7 @@
 ## Passo 2 (*GitHub Desktop*): ##
  - Acessar o site "https://desktop.github.com/" e instalar.
 ![Githubdesktop](https://github.com/gustavo77o/gustavo-aula04-dw/blob/main/githubdesktop.png?raw=true)
- - Entar com sua conta que já foi criada.
+ - Entar com sua conta que já foi criada.0
 
 ## Passo 3 (*Interligar*) : ##
  - Voltando ao navegador aonde está aberto o site do github com nosso novo repositório, visualize o botão escrito "Set up in Desktop" 
@@ -26,3 +26,12 @@
  - Após o podemos clicar em "*Push origin*" e vai estar atualizado já no GitHub do navegador com todas as informações necessárias.
  ## Passo 8 (*Pull*):
  - O comando git pull é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais. Fazer o merge de alterações upstream remotas no repositório local é algo comum em fluxos de trabalho de colaboração baseados em Git. 
+ ## Passo 9 (*New Branch*):
+ - Ir no github desktop, clicar em "*branch*" e podemos nomear com qualquer nome a sua escolha.
+ - Acessando o Visual Studio CODE, criar um "*new file*" para poder testar o novo brench.
+## Passo 10 (*Main*):
+- Colocando branch em main novamente podemos criar um "*new file*" para testar. 
+- Podemos ter "teste.txt" e "teste2.txt" os dois são toltamentes diferentes e não pode ser acessado quando trocado de branch.
+## Passo 11 (*Merge*):
+- Voltando no github desktop, clicar em "*branch*" ir na opção "*Merge*" e selecionamos o **branch** que foi **criado**, depois disso podemos clicar no botão escrito "*create a merge commit*".
+- 
