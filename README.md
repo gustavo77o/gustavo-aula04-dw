@@ -2,12 +2,14 @@
 
 ## Passo 1 (*Introdução*): ##
  - Entrar no site "https://github.com/" e criar uma conta.
-![Github](github.png)
+![Github](https://github.com/gustavo77o/gustavo-aula04-dw/blob/main/github.png?raw=true)
  - Ir ao repositório, clicar em "New" e colocar nome e configurar algumas opções adicionais, não necessárias nesse processo.
 
 ## Passo 2 (*GitHub Desktop*): ##
  - Acessar o site "https://desktop.github.com/" e instalar.
+ ![Github Desktop]()
  - Entar com sua conta que já foi criada.
+
 ## Passo 3 (*Interligar*) : ##
  - Voltando ao navegador aonde está aberto o site do github com nosso novo repositório, visualize o botão escrito "Set up in Desktop" 
 ## Passo 4 (*Visual Studio Code*): ##
