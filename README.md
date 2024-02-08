@@ -2,6 +2,7 @@
 
 ## Passo 1 (*Introdução*): ##
  - Entrar no site "https://github.com/" e criar uma conta.
+![Github](https://vscode.dev/github/gustavo77o/gustavo-aula04-dw/blob/main/github.png)
  - Ir ao repositório, clicar em "New" e colocar nome e configurar algumas opções adicionais, não necessárias nesse processo.
 
 ## Passo 2 (*GitHub Desktop*): ##
