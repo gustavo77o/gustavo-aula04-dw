@@ -14,6 +14,7 @@
  - Voltando ao navegador aonde está aberto o site do github com nosso novo repositório, visualize o botão escrito "Set up in Desktop" 
 ## Passo 4 (*Visual Studio Code*): ##
  - Acessando o site "https://code.visualstudio.com/" podemos acessar o download do Visual Studio Code.
+ ![VSCode](https://github.com/gustavo77o/gustavo-aula04-dw/blob/main/vscode.png?raw=true)
  - Abrindo vamos em *file* -> *Openfolder* -> *Este computador* -> *Documentos* -> *GitHub* -> *#NomeDoRepositório*
  - Importante lembrar de ir em *file* -> **AutoSave**, para que salve automaticamente e já esteja no seu GitHub Desktop sem precisar fazer manualmente a cada atualização que precisar.
  ## Passo 5 (*Criação dentro do VSCode*): ##
