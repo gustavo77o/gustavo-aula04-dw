@@ -17,6 +17,7 @@
  ![VSCode](https://github.com/gustavo77o/gustavo-aula04-dw/blob/main/vscode.png?raw=true)
  - Abrindo vamos em *file* -> *Openfolder* -> *Este computador* -> *Documentos* -> *GitHub* -> *#NomeDoRepositório*
  - Importante lembrar de ir em *file* -> **AutoSave**, para que salve automaticamente e já esteja no seu GitHub Desktop sem precisar fazer manualmente a cada atualização que precisar.
+ ![Auto Safe](https://github.com/gustavo77o/gustavo-aula04-dw/blob/main/vscode.png?raw=true)
  ## Passo 5 (*Criação dentro do VSCode*): ##
  - Usar uma linguagem, a utilizada nesse exemplo é a Markdown, a cada alteração é modificado já no desktop.
  ## Passo 6 (*Commit to main*):
