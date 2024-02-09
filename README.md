@@ -31,7 +31,8 @@
  - O comando git pull é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais. Fazer o merge de alterações upstream remotas no repositório local é algo comum em fluxos de trabalho de colaboração baseados em Git.
  ## Passo 9 (*new_branch*): 
  - Abrir o nosso github desktop, e clicar em "*Branch*" e nomear da sua escolha.
- ![Branch]()
+ 
+    ![Branch](https://github.com/gustavo77o/gustavo-aula04-dw/blob/main/branch.png?raw=true)
  ## Passo 10 (*new file*):
  - Acessando o VScode vamos clicar em "*New file*" e nomear como "*Teste.txt*"
  - Escrever algo dentro e podemos voltar no github desktop.
